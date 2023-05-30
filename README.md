@@ -4,7 +4,7 @@ Sou uma Desenvolvedora Fullstack, tendo experiência em desenvolvimento web e bu
 
 <hr>
 
-<div style="display: inline_block; width: 100%; "><br>
+<div style="display: inline_block;" width="100%"><br>
 
   <img align="center" alt="Paula-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -36,15 +36,14 @@ Sou uma Desenvolvedora Fullstack, tendo experiência em desenvolvimento web e bu
   
   ##
  
-<div> 
+<div style="display: inline_block;" width="100%">
+ 
+ <a href="https://labcidades.github.io/" target="_blank">
+    LABUNI9
+  </a>
+ 
   <a href="https://www.linkedin.com/in/paula-fraga-292b97253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-
-  <a href="https://labcidades.github.io/" target="_blank">
-    <div style="background: white;display: flex;justify-content: center;align-items: center;width: 150px;height: 28px">
-      <p style="background: linear-gradient(to bottom right, #1a237e, #8e0038); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: "Copperplate", fantasy, cursive;">LABUNI9</p>
-    </div>
   </a>
 
   <a href = "mailto:pauladev3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
