@@ -41,13 +41,13 @@ Sou uma Desenvolvedora Fullstack, tendo experiência em desenvolvimento web e bu
  <a href="https://labcidades.github.io/" target="_blank">
     LABUNI9
   </a>
- 
+ &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/paula-fraga-292b97253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-
+&nbsp; &nbsp;
   <a href = "mailto:pauladev3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=5511968765141&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 </div>
