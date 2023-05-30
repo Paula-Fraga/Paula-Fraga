@@ -52,5 +52,5 @@ Sou uma Desenvolvedora Fullstack, tendo experiência em desenvolvimento web e bu
   
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Paula-Fraga&repo=Paula-Fraga&theme=react)](https://github.com/Paula-Fraga/Paula-Fraga)
+![Snake animation](https://github.com/Paula-Fraga/Paula-Fraga/blob/output/github-contribution-grid-snake.svg)
 
