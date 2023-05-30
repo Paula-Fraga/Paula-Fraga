@@ -1,6 +1,6 @@
-<h2 align="center"> Olá, Eu sou Paula Fraga 👋 </h2>
+<h2 align="center"> Hello, I'm Paula Fraga 👋 </h2>
  
-Sou uma Desenvolvedora Fullstack, tendo experiência em desenvolvimento web e buscando novos desafios para expandir meus conhecimentos.
+I'm a Fullstack Developer, with experience in web development and looking for new challenges to expand my knowledge.
 
 <hr>
 
