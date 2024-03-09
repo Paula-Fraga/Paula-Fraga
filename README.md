@@ -10,13 +10,9 @@ I'm a Fullstack Developer, with experience in web development and looking for ne
 
   <img align="center" alt="Paula-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-  <img align="center" alt="Paula-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-
   <img align="center" alt="Paula-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
   <img align="center" alt="Paula-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-
-  <img align="center" alt="Paula-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 
   <img align="center" alt="Paula-codeigniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />
 
@@ -52,5 +48,4 @@ I'm a Fullstack Developer, with experience in web development and looking for ne
   
 </div>
 
-![Snake animation](https://github.com/Paula-Fraga/Paula-Fraga/blob/output/github-contribution-grid-snake.svg)
 
