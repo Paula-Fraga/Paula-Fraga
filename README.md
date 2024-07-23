@@ -1,51 +1,48 @@
-<h2 align="center"> Hello, I'm Paula Fraga 👋 </h2>
- 
-I'm a Fullstack Developer, with experience in web development and looking for new challenges to expand my knowledge.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&size=25&pause=1000&color=FF51B0&center=true&width=450&lines=Bem+vindos+ao+meu+perfil+%F0%9F%98%81;Meu+nome+%C3%A9+Paula;Localizada+em+SP%2FBrasil;Sou+desenvolvedora+WEB+FullStack+)](https://git.io/typing-svg)
 
-<hr>
+<br />
 
-<div style="display: inline_block;" width="100%"><br>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"/>          
+</p>
 
-  <img align="center" alt="Paula-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<br />
 
-  <img align="center" alt="Paula-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+## Sobre mim
+💼 Atualmente trabalhando como Desenvolvedora WEB  
+🌱 Estudando **DevOps**  
+🎓 Bacharel em Ciência da Computação (Terminado) 
 
-  <img align="center" alt="Paula-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-  <img align="center" alt="Paula-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-  <img align="center" alt="Paula-codeigniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />
+## 📫 Contato
 
-  <img align="center" alt="Paula-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <img align="center" alt="Paula-composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
-
-  <img align="center" alt="Paula-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-
-  <img align="center" alt="Paula-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-
-  <img align="center" alt="Paula-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-  <img align="center" alt="Paula-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://labcidades.github.io">
+        <img src="https://labcidades.github.io/assets/img/logo1_labcidades.png" alt="LabUNI9" width="70">
+    </a>
+    <a href="https://www.linkedin.com/in/paula-fraga-292b97253">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:pauladev3@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://wa.me/5511991410390">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
 </div>
-  
-  ##
- 
-<div style="display: inline_block;" width="100%">
- 
- <a href="https://labcidades.github.io/" target="_blank">
-    LABUNI9
-  </a>
- &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/paula-fraga-292b97253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-&nbsp; &nbsp;
-  <a href = "mailto:pauladev3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=5511968765141&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
